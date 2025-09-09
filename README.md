@@ -1,2 +1,2 @@
-# Bloomberg-data-automated-extraction-
+# Bloomberg-data-automated-extraction with python 
 Bloomberg data automated extraction 
